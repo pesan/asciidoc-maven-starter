@@ -1,0 +1,10 @@
+:product: Productname
+:version: N/A
+
+= RELEASE NOTES
+{product} v{version}
+
+include::introduction.ad[]
+
+include::contents.ad[]
+
